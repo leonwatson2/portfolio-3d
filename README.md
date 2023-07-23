@@ -6,3 +6,4 @@ Fun. Simple. Nice.
 
 
 
+![Semantic description of image](/screenshot.png "Screenshot of site")
